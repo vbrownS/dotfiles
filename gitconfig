@@ -1,6 +1,6 @@
 [user]
-        name = Roxanne Panthaky
-        email = roxanne.panthaky@shopify.com
+        name = Vesna Brown
+        email = vesna.brown@shopify.com
 [credential]
 	helper = 
 	helper = store --file /opt/dev/var/private/git_credential_store
